@@ -34,24 +34,6 @@ namespace Concurso
             Console.WriteLine("\t\tGANADOR!\n");
             Console.WriteLine($"El Ganador del concurso es: {participantes[aleatorio.Next(0, r)]}");
 
-            //int t;
-            //try
-            //{
-            //    Console.WriteLine("Ingresa un Numero entero");
-            //    t = int.Parse(Console.ReadLine());
-            //}
-            //catch (FormatException)// esto es una excepcion Especifica
-            //{
-            //    t = 1;
-            //    Console.WriteLine("has Ingresado un texto y no un entero ahora el numero sera 1");
-            //}
-            //catch (Exception ex)//Esto es una excepcion Generica
-            //{
-            //    Console.WriteLine(ex.Message);
-            //    t = 1;
-            //}
-
-
         }
     }
 }

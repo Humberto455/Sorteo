@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hurur\\source\\repos\\Concurso\\Concurso.csproj": {}
+    "C:\\Users\\hurur\\Desktop\\CursosYT\\Curso-Git\\Sorteo\\Concurso\\Concurso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hurur\\source\\repos\\Concurso\\Concurso.csproj": {
+    "C:\\Users\\hurur\\Desktop\\CursosYT\\Curso-Git\\Sorteo\\Concurso\\Concurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hurur\\source\\repos\\Concurso\\Concurso.csproj",
+        "projectUniqueName": "C:\\Users\\hurur\\Desktop\\CursosYT\\Curso-Git\\Sorteo\\Concurso\\Concurso.csproj",
         "projectName": "Concurso",
-        "projectPath": "C:\\Users\\hurur\\source\\repos\\Concurso\\Concurso.csproj",
+        "projectPath": "C:\\Users\\hurur\\Desktop\\CursosYT\\Curso-Git\\Sorteo\\Concurso\\Concurso.csproj",
         "packagesPath": "C:\\Users\\hurur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hurur\\source\\repos\\Concurso\\obj\\",
+        "outputPath": "C:\\Users\\hurur\\Desktop\\CursosYT\\Curso-Git\\Sorteo\\Concurso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
