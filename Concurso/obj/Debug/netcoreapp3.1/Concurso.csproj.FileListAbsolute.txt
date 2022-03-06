@@ -1,0 +1,14 @@
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.exe
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.deps.json
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.runtimeconfig.json
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.runtimeconfig.dev.json
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.dll
+C:\Users\hurur\source\repos\Concurso\bin\Debug\netcoreapp3.1\Concurso.pdb
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.csproj.AssemblyReference.cache
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.AssemblyInfoInputs.cache
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.AssemblyInfo.cs
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.csproj.CoreCompileInputs.cache
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.dll
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.pdb
+C:\Users\hurur\source\repos\Concurso\obj\Debug\netcoreapp3.1\Concurso.genruntimeconfig.cache
